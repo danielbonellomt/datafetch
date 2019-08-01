@@ -1,0 +1,35 @@
+{
+  "get1": [
+    {
+      "id": 1,
+      "title": "g1t1"
+    },
+	{
+      "id": 2,
+      "title": "g1t2"
+    }
+  ],
+  "get2": [
+    {
+      "id": 1,
+      "title": "g2t1"
+    },
+	{
+      "id": 2,
+      "title": "g2t2"
+    }
+  ],
+  "get3": [
+    {
+      "id": 1,
+      "title": "g3t1"
+    },
+	{
+      "id": 2,
+      "title": "g3t2"
+    }
+  ],
+  "profile": {
+    "name": "danielbonellomt"
+  }
+}
