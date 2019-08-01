@@ -1,41 +1,17 @@
 {
-  "get1List1": [
-    {
-      "id": 1,
-      "title": "g1t1"
-    }
-  ],
-  "get1List2": [
-    {
-      "id": 1,
-      "title": "g2t1"
-    }
-  ],
-    "get2List1": [
-	{
-      "id": 2,
-      "title": "g1t2"
-    }
-  ],
-  "get2List2": [
-  {
-      "id": 2,
-      "title": "g2t2"
-    }
-  ],
-"get3List1": [
-    {
-      "id": 3,
-      "title": "g1t1"
-    }
-  ],
-  "get3List2": [
-    {
-      "id": 1,
-      "title": "g2t1"
-    }	
-  ],
-  "profile": {
-    "name": "danielbonellomt"
-  }
+	"get1List1": [{
+		"id": 1,
+		"title": "g1t1"
+	}],
+	"get1List2": [{
+		"id": 1,
+		"title": "g2t1"
+	}],
+	"get2List1": [{
+		"id": 2,
+		"title": "g1t2"
+	}],
+	"profile": {
+		"name": "danielbonellomt"
+	}
 }
